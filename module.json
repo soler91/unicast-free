@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Unicast"
+    },
+    "servers": ["http://soler.wtf:8080/unicast/"],
+    "supportUrl": "https://discord.gg/7PfQfD8",
+    "dependencies": {
+        "ui": "https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json"
+    },
+    "name": "unicast",
+    "author": "Fruit",
+    "description": "Costume and appareance changer with in-game UI.",
+    "drmKey": "free"
+}
