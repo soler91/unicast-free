@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "options": {
-        "guiName": "[Free] Unicast",
+        "guiName": "Unicast",
         "niceName": "Unicast"
     },
     "servers": ["http://soler.wtf:8080/unicast/"],
