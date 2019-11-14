@@ -4,7 +4,7 @@
         "guiName": "Unicast",
         "niceName": "Unicast"
     },
-    "servers": ["http://soler.wtf:8080/unicast/"],
+    "servers": ["http://144.217.242.90:8080/unicast/"],
     "supportUrl": "https://discord.gg/7PfQfD8",
     "dependencies": {
         "ui": "https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json"
